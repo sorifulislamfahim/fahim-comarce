@@ -1,0 +1,88 @@
+.navbar-expand-lg{
+    border-radius: 10px;
+}
+.container{
+    padding-bottom: 50px;
+}
+.orange-bg{
+    background-color:rgb(241, 218, 189);
+    height: 500px;
+    padding: 20px 30px;
+    border-radius: 10px;
+}
+.price{
+    color: #d10794;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+.col-md-7 p{
+    color:dimgrey;
+}
+.cat1, .cat2, .cat3{
+    height: 280px;
+    border-radius: 30px;
+}
+.cat1{
+    background-color:lime;
+    padding: 10px 10px;
+    color: #fff;
+}
+.cat2{
+    background-color: cyan;
+    padding: 10px 10px;
+    color: #fff;
+}
+.cat3{
+    background-color: darkblue;
+    padding: 10px 20px;
+    color: #fff;
+}
+.bat1, .bat2, .bat3{
+    color: #fff;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+.bat1{
+    background-image: linear-gradient(to right, #ff589b 0%, #ff136f 100%);
+}
+.bat2{
+    background-image: linear-gradient(to right, #71ff58 0%, #13ff91 100%);
+}
+.bat3{
+    background-image: linear-gradient(to right, #8a58ff 0%, #1323ff 100%);
+}
+
+.fahim1{
+    box-shadow: 10px 10px 10px lightgray;
+   height: 700px;
+   border-radius: 15px;
+}
+.card-title{
+    font-size: 40px;
+}
+.apple{
+    display: block;
+    box-shadow: 10px 10px 10px lightgray;
+    border-radius: 20px;
+}
+.jannat{
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.fjannat{
+    margin-top: 50px;
+    background-color:#fceae8;
+    height: 250px;
+    padding: 20px 30px;
+    border-radius: 10px;
+}
+footer{
+    margin-top: 30px;
+    text-align:right;
+    font-style: italic;
+}
